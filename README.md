@@ -1,6 +1,7 @@
 Docker-Excelify 獨立運作版本:
 
 啟動方式(第一次執行會自動下載):
+
 docker-compose up 
 (使用control+c停止)
 
