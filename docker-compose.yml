@@ -1,0 +1,10 @@
+version: '2'
+services:
+### 內含laravel及excelify程式 
+ excelify:
+  image: deviny/excelify:0.0.1
+  dns: 8.8.8.8
+  ports:
+      #hosts預設開啟埠為8080
+      - "8080:80"
+  command: bash -c "/usr/local/sbin/php-fpm&&/usr/local/sbin/nginx -g 'daemon off;' -c /etc/nginx/nginx.conf" 
