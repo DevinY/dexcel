@@ -8,10 +8,12 @@ docker-compose up -d
 </pre>
 
 二、在任何地方透過
+
 停止dexcel container
 <pre>
 docker stop dexcel
 </pre>
+
 啟動dexcel container
 <pre>
 docker start dexcel
@@ -23,6 +25,7 @@ http://localhost:8080
 </pre>
 
 其他
+
 停止並移除container
 <pre>
 docker-compose down
