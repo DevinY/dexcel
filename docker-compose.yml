@@ -3,6 +3,7 @@ services:
 ### 內含laravel及excelify程式 
  excelify:
   image: deviny/excelify:0.0.1
+  container_name: dexcel
   dns: 8.8.8.8
   ports:
       #hosts預設開啟埠為8080
