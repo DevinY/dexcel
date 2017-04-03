@@ -2,7 +2,7 @@ Docker-Excelify 獨立運作版本:
 
 您的電腦需安裝docker
 
-一、下載Image並啟動container:
+一、下載Image並建立container:
 <pre>
 docker-compose up -d
 </pre>
