@@ -1,7 +1,5 @@
 Docker-Excelify 獨立運作版本:
 
-https://github.com/DevinY/excelify
-
 說明:
 <pre>
 Excelify是一個使用Laravel建立的Excel資料轉換工具。
@@ -10,6 +8,11 @@ Excelify是一個使用Laravel建立的Excel資料轉換工具。
 所以這裡提供docker獨立運作的版本，
 只要電腦安裝了docker，即可輕易的運作在所有的平台上，Linux、Mac或Windows。
 </pre>
+
+下方是Excelify的source連結: (如日你自己有Laravel執行環境，沒有docker時)
+
+https://github.com/DevinY/excelify
+
 
 您的電腦需安裝docker
 
