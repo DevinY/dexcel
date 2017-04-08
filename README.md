@@ -9,7 +9,7 @@ Excelify是一個使用Laravel建立的Excel資料轉換工具。
 只要電腦安裝了docker，即可輕易的運作在所有的平台上，Linux、Mac或Windows。
 </pre>
 
-下方是Excelify的source連結: (如日你自己有Laravel執行環境，沒有docker時)
+下方是Excelify的source連結: (如果你自己有Laravel執行環境，沒有docker時)
 
 https://github.com/DevinY/excelify
 
