@@ -1,8 +1,8 @@
-version: '2'
+version: '3'
 services:
 ### 內含laravel及excelify程式 
  excelify:
-  image: deviny/excelify:0.0.3
+  image: deviny/excelify:latest
   container_name: dexcel
   dns: 8.8.8.8
   ports:
